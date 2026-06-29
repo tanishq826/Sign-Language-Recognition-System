@@ -79,7 +79,7 @@ Sign_Language_Recognition/
 AUTHOR
 ----------------------------------------------------
 Tanishq Saini
-CDAC Bangalore | DBDA | Aug 2025 - Feb 2026
+| CDAC Bangalore | DBDA | Aug 2025 - Feb 2026
 
 ----------------------------------------------------
 LICENSE
